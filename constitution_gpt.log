@@ -1,0 +1,527 @@
+2025-08-27 15:47:18,696 - INFO - Base professionnelle chargée: 199 articles
+2025-08-27 15:47:18,697 - INFO - Construction index sémantique professionnel...
+2025-08-27 15:47:18,711 - INFO - Index sémantique créé: 2044 termes
+2025-08-27 15:47:18,712 - INFO - Index innovations: 6 articles
+2025-08-27 15:47:18,712 - INFO - Chatbot initialisé avec succès
+2025-08-27 15:47:18,748 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.143:5000
+2025-08-27 15:47:18,749 - INFO - [33mPress CTRL+C to quit[0m
+2025-08-27 15:47:18,774 - INFO -  * Restarting with watchdog (windowsapi)
+2025-08-27 15:47:19,278 - INFO - Base professionnelle chargée: 199 articles
+2025-08-27 15:47:19,278 - INFO - Construction index sémantique professionnel...
+2025-08-27 15:47:19,292 - INFO - Index sémantique créé: 2044 termes
+2025-08-27 15:47:19,293 - INFO - Index innovations: 6 articles
+2025-08-27 15:47:19,293 - INFO - Chatbot initialisé avec succès
+2025-08-27 15:47:19,314 - WARNING -  * Debugger is active!
+2025-08-27 15:47:19,320 - INFO -  * Debugger PIN: 166-373-291
+2025-08-27 15:50:33,855 - INFO -  * Detected change in 'C:\\Users\\Imam Said\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\dash\\__init__.py', reloading
+2025-08-27 15:50:33,856 - INFO -  * Detected change in 'C:\\Users\\Imam Said\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\dash\\html\\__init__.py', reloading
+2025-08-27 15:50:33,857 - INFO -  * Detected change in 'C:\\Users\\Imam Said\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\plotly\\graph_objects\\__init__.py', reloading
+2025-08-27 15:50:33,863 - INFO -  * Detected change in 'C:\\Users\\Imam Said\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\dash\\html\\_imports_.py', reloading
+2025-08-27 15:50:34,190 - INFO -  * Restarting with watchdog (windowsapi)
+2025-08-27 15:50:35,044 - INFO - Base professionnelle chargée: 199 articles
+2025-08-27 15:50:35,045 - INFO - Construction index sémantique professionnel...
+2025-08-27 15:50:35,067 - INFO - Index sémantique créé: 2044 termes
+2025-08-27 15:50:35,068 - INFO - Index innovations: 6 articles
+2025-08-27 15:50:35,068 - INFO - Chatbot initialisé avec succès
+2025-08-27 15:50:35,101 - WARNING -  * Debugger is active!
+2025-08-27 15:50:35,109 - INFO -  * Debugger PIN: 166-373-291
+2025-08-27 15:50:53,613 - INFO - Base professionnelle chargée: 199 articles
+2025-08-27 15:50:53,613 - INFO - Construction index sémantique professionnel...
+2025-08-27 15:50:53,629 - INFO - Index sémantique créé: 2044 termes
+2025-08-27 15:50:53,631 - INFO - Index innovations: 6 articles
+2025-08-27 15:50:53,631 - INFO - Chatbot initialisé avec succès
+2025-08-27 15:50:53,664 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.143:5000
+2025-08-27 15:50:53,664 - INFO - [33mPress CTRL+C to quit[0m
+2025-08-27 15:50:53,681 - INFO -  * Restarting with watchdog (windowsapi)
+2025-08-27 15:50:54,391 - INFO - Base professionnelle chargée: 199 articles
+2025-08-27 15:50:54,391 - INFO - Construction index sémantique professionnel...
+2025-08-27 15:50:54,407 - INFO - Index sémantique créé: 2044 termes
+2025-08-27 15:50:54,407 - INFO - Index innovations: 6 articles
+2025-08-27 15:50:54,407 - INFO - Chatbot initialisé avec succès
+2025-08-27 15:50:54,430 - WARNING -  * Debugger is active!
+2025-08-27 15:50:54,435 - INFO -  * Debugger PIN: 166-373-291
+2025-08-27 15:51:01,989 - INFO - 127.0.0.1 - - [27/Aug/2025 15:51:01] "GET / HTTP/1.1" 200 -
+2025-08-27 15:52:11,156 - INFO - 127.0.0.1 - - [27/Aug/2025 15:52:11] "GET / HTTP/1.1" 200 -
+2025-08-27 15:52:23,094 - INFO - 127.0.0.1 - - [27/Aug/2025 15:52:23] "[33mGET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1[0m" 404 -
+2025-08-27 15:54:08,713 - INFO -  * Detected change in 'C:\\Users\\Imam Said\\Desktop\\Guinée_chatbot\\constitution-ai-ministere\\Server.py', reloading
+2025-08-27 15:54:08,716 - INFO -  * Detected change in 'C:\\Users\\Imam Said\\Desktop\\Guinée_chatbot\\constitution-ai-ministere\\Server.py', reloading
+2025-08-27 15:54:08,717 - INFO -  * Detected change in 'C:\\Users\\Imam Said\\Desktop\\Guinée_chatbot\\constitution-ai-ministere\\Server.py', reloading
+2025-08-27 15:54:09,486 - INFO -  * Restarting with watchdog (windowsapi)
+2025-08-27 15:54:10,390 - INFO - Base professionnelle chargée: 199 articles
+2025-08-27 15:54:10,391 - INFO - Construction index sémantique professionnel...
+2025-08-27 15:54:10,418 - INFO - Index sémantique créé: 2044 termes
+2025-08-27 15:54:10,419 - INFO - Index innovations: 6 articles
+2025-08-27 15:54:10,419 - INFO - Chatbot initialisé avec succès
+2025-08-27 15:54:10,451 - WARNING -  * Debugger is active!
+2025-08-27 15:54:10,458 - INFO -  * Debugger PIN: 166-373-291
+2025-08-27 15:54:15,525 - INFO -  * Detected change in 'C:\\Users\\Imam Said\\Desktop\\Guinée_chatbot\\constitution-ai-ministere\\Server.py', reloading
+2025-08-27 15:54:15,525 - INFO -  * Detected change in 'C:\\Users\\Imam Said\\Desktop\\Guinée_chatbot\\constitution-ai-ministere\\Server.py', reloading
+2025-08-27 15:54:15,526 - INFO -  * Detected change in 'C:\\Users\\Imam Said\\Desktop\\Guinée_chatbot\\constitution-ai-ministere\\Server.py', reloading
+2025-08-27 15:54:15,730 - INFO -  * Restarting with watchdog (windowsapi)
+2025-08-27 15:54:16,620 - INFO - Base professionnelle chargée: 199 articles
+2025-08-27 15:54:16,620 - INFO - Construction index sémantique professionnel...
+2025-08-27 15:54:16,642 - INFO - Index sémantique créé: 2044 termes
+2025-08-27 15:54:16,643 - INFO - Index innovations: 6 articles
+2025-08-27 15:54:16,645 - INFO - Chatbot initialisé avec succès
+2025-08-27 15:54:16,681 - WARNING -  * Debugger is active!
+2025-08-27 15:54:16,688 - INFO -  * Debugger PIN: 166-373-291
+2025-08-27 15:54:23,795 - INFO - 127.0.0.1 - - [27/Aug/2025 15:54:23] "GET / HTTP/1.1" 200 -
+2025-08-27 15:54:23,882 - INFO - 127.0.0.1 - - [27/Aug/2025 15:54:23] "[33mGET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1[0m" 404 -
+2025-08-27 15:55:06,556 - INFO - Base professionnelle chargée: 199 articles
+2025-08-27 15:55:06,557 - INFO - Construction index sémantique professionnel...
+2025-08-27 15:55:06,573 - INFO - Index sémantique créé: 2044 termes
+2025-08-27 15:55:06,573 - INFO - Index innovations: 6 articles
+2025-08-27 15:55:06,573 - INFO - Chatbot initialisé avec succès
+2025-08-27 15:55:06,612 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.143:5000
+2025-08-27 15:55:06,613 - INFO - [33mPress CTRL+C to quit[0m
+2025-08-27 15:55:06,633 - INFO -  * Restarting with watchdog (windowsapi)
+2025-08-27 15:55:07,269 - INFO - Base professionnelle chargée: 199 articles
+2025-08-27 15:55:07,269 - INFO - Construction index sémantique professionnel...
+2025-08-27 15:55:07,283 - INFO - Index sémantique créé: 2044 termes
+2025-08-27 15:55:07,284 - INFO - Index innovations: 6 articles
+2025-08-27 15:55:07,284 - INFO - Chatbot initialisé avec succès
+2025-08-27 15:55:07,302 - WARNING -  * Debugger is active!
+2025-08-27 15:55:07,308 - INFO -  * Debugger PIN: 166-373-291
+2025-08-27 15:55:12,259 - INFO - 127.0.0.1 - - [27/Aug/2025 15:55:12] "GET / HTTP/1.1" 200 -
+2025-08-27 15:55:12,296 - INFO - 127.0.0.1 - - [27/Aug/2025 15:55:12] "[33mGET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1[0m" 404 -
+2025-08-27 16:16:14,209 - INFO - Base professionnelle chargée: 199 articles
+2025-08-27 16:16:14,209 - INFO - Construction index sémantique professionnel...
+2025-08-27 16:16:14,225 - INFO - Index sémantique créé: 2044 termes
+2025-08-27 16:16:14,226 - INFO - Index innovations: 6 articles
+2025-08-27 16:16:14,269 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.143:5000
+2025-08-27 16:16:14,269 - INFO - [33mPress CTRL+C to quit[0m
+2025-08-27 16:16:14,288 - INFO -  * Restarting with watchdog (windowsapi)
+2025-08-27 16:16:14,710 - INFO - Base professionnelle chargée: 199 articles
+2025-08-27 16:16:14,710 - INFO - Construction index sémantique professionnel...
+2025-08-27 16:16:14,725 - INFO - Index sémantique créé: 2044 termes
+2025-08-27 16:16:14,726 - INFO - Index innovations: 6 articles
+2025-08-27 16:16:14,744 - WARNING -  * Debugger is active!
+2025-08-27 16:16:14,749 - INFO -  * Debugger PIN: 166-373-291
+2025-08-27 16:16:19,008 - INFO - 127.0.0.1 - - [27/Aug/2025 16:16:19] "GET / HTTP/1.1" 200 -
+2025-08-27 16:16:19,091 - INFO - 127.0.0.1 - - [27/Aug/2025 16:16:19] "[33mGET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1[0m" 404 -
+2025-08-27 16:16:37,246 - INFO - 127.0.0.1 - - [27/Aug/2025 16:16:37] "GET / HTTP/1.1" 200 -
+2025-08-27 16:16:37,560 - INFO - 127.0.0.1 - - [27/Aug/2025 16:16:37] "[33mGET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1[0m" 404 -
+2025-08-27 16:16:59,189 - INFO - 127.0.0.1 - - [27/Aug/2025 16:16:59] "GET / HTTP/1.1" 200 -
+2025-08-27 16:16:59,228 - INFO - 127.0.0.1 - - [27/Aug/2025 16:16:59] "[33mGET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1[0m" 404 -
+2025-08-27 16:22:25,530 - INFO -  * Detected change in 'C:\\Users\\Imam Said\\Desktop\\Guinée_chatbot\\constitution-ai-ministere\\app.py', reloading
+2025-08-27 16:22:25,534 - INFO -  * Detected change in 'C:\\Users\\Imam Said\\Desktop\\Guinée_chatbot\\constitution-ai-ministere\\app.py', reloading
+2025-08-27 16:22:25,535 - INFO -  * Detected change in 'C:\\Users\\Imam Said\\Desktop\\Guinée_chatbot\\constitution-ai-ministere\\app.py', reloading
+2025-08-27 16:22:25,536 - INFO -  * Detected change in 'C:\\Users\\Imam Said\\Desktop\\Guinée_chatbot\\constitution-ai-ministere\\app.py', reloading
+2025-08-27 16:22:26,412 - INFO -  * Restarting with watchdog (windowsapi)
+2025-08-27 16:22:26,985 - INFO - Base professionnelle chargée: 199 articles
+2025-08-27 16:22:26,986 - INFO - Construction index sémantique professionnel...
+2025-08-27 16:22:27,002 - INFO - Index sémantique créé: 2044 termes
+2025-08-27 16:22:27,003 - INFO - Index innovations: 6 articles
+2025-08-27 16:22:27,025 - WARNING -  * Debugger is active!
+2025-08-27 16:22:27,034 - INFO -  * Debugger PIN: 166-373-291
+2025-08-27 16:22:32,994 - INFO -  * Detected change in 'C:\\Users\\Imam Said\\Desktop\\Guinée_chatbot\\constitution-ai-ministere\\app.py', reloading
+2025-08-27 16:22:32,994 - INFO -  * Detected change in 'C:\\Users\\Imam Said\\Desktop\\Guinée_chatbot\\constitution-ai-ministere\\app.py', reloading
+2025-08-27 16:22:33,234 - INFO -  * Restarting with watchdog (windowsapi)
+2025-08-27 16:22:33,749 - INFO - Base professionnelle chargée: 199 articles
+2025-08-27 16:22:33,749 - INFO - Construction index sémantique professionnel...
+2025-08-27 16:22:33,767 - INFO - Index sémantique créé: 2044 termes
+2025-08-27 16:22:33,767 - INFO - Index innovations: 6 articles
+2025-08-27 16:22:33,796 - WARNING -  * Debugger is active!
+2025-08-27 16:22:33,804 - INFO -  * Debugger PIN: 166-373-291
+2025-08-27 16:22:39,780 - INFO - Base professionnelle chargée: 199 articles
+2025-08-27 16:22:39,780 - INFO - Construction index sémantique professionnel...
+2025-08-27 16:22:39,807 - INFO - Index sémantique créé: 2044 termes
+2025-08-27 16:22:39,808 - INFO - Index innovations: 6 articles
+2025-08-27 16:22:39,847 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.143:5000
+2025-08-27 16:22:39,847 - INFO - [33mPress CTRL+C to quit[0m
+2025-08-27 16:22:39,861 - INFO -  * Restarting with watchdog (windowsapi)
+2025-08-27 16:22:40,401 - INFO - Base professionnelle chargée: 199 articles
+2025-08-27 16:22:40,401 - INFO - Construction index sémantique professionnel...
+2025-08-27 16:22:40,424 - INFO - Index sémantique créé: 2044 termes
+2025-08-27 16:22:40,424 - INFO - Index innovations: 6 articles
+2025-08-27 16:22:40,449 - WARNING -  * Debugger is active!
+2025-08-27 16:22:40,459 - INFO -  * Debugger PIN: 166-373-291
+2025-08-27 16:22:47,861 - INFO - 127.0.0.1 - - [27/Aug/2025 16:22:47] "GET / HTTP/1.1" 200 -
+2025-08-27 16:22:47,890 - INFO - 127.0.0.1 - - [27/Aug/2025 16:22:47] "[33mGET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1[0m" 404 -
+2025-08-27 16:22:55,139 - INFO - Intent détecté: greeting (confiance: 0.90)
+2025-08-27 16:22:56,991 - INFO - 127.0.0.1 - - [27/Aug/2025 16:22:56] "POST /ask HTTP/1.1" 200 -
+2025-08-27 16:23:30,209 - INFO - Intent détecté: specific_article (confiance: 0.95)
+2025-08-27 16:23:31,881 - INFO - 127.0.0.1 - - [27/Aug/2025 16:23:31] "POST /ask HTTP/1.1" 200 -
+2025-08-27 16:34:43,238 - INFO -  * Detected change in 'C:\\Users\\Imam Said\\Desktop\\Guinée_chatbot\\constitution-ai-ministere\\app.py', reloading
+2025-08-27 16:34:43,241 - INFO -  * Detected change in 'C:\\Users\\Imam Said\\Desktop\\Guinée_chatbot\\constitution-ai-ministere\\app.py', reloading
+2025-08-27 16:34:43,241 - INFO -  * Detected change in 'C:\\Users\\Imam Said\\Desktop\\Guinée_chatbot\\constitution-ai-ministere\\app.py', reloading
+2025-08-27 16:34:44,080 - INFO -  * Restarting with watchdog (windowsapi)
+2025-08-27 16:34:45,026 - INFO - Base professionnelle chargée: 199 articles
+2025-08-27 16:34:45,027 - INFO - Construction index sémantique professionnel...
+2025-08-27 16:34:45,045 - INFO - Index sémantique créé: 2044 termes
+2025-08-27 16:34:45,045 - INFO - Index innovations: 6 articles
+2025-08-27 16:34:45,067 - WARNING -  * Debugger is active!
+2025-08-27 16:34:45,073 - INFO -  * Debugger PIN: 166-373-291
+2025-08-27 16:34:47,889 - INFO -  * Detected change in 'C:\\Users\\Imam Said\\Desktop\\Guinée_chatbot\\constitution-ai-ministere\\app.py', reloading
+2025-08-27 16:34:47,890 - INFO -  * Detected change in 'C:\\Users\\Imam Said\\Desktop\\Guinée_chatbot\\constitution-ai-ministere\\app.py', reloading
+2025-08-27 16:34:47,891 - INFO -  * Detected change in 'C:\\Users\\Imam Said\\Desktop\\Guinée_chatbot\\constitution-ai-ministere\\app.py', reloading
+2025-08-27 16:34:48,225 - INFO -  * Restarting with watchdog (windowsapi)
+2025-08-27 16:34:48,845 - INFO - Base professionnelle chargée: 199 articles
+2025-08-27 16:34:48,846 - INFO - Construction index sémantique professionnel...
+2025-08-27 16:34:48,873 - INFO - Index sémantique créé: 2044 termes
+2025-08-27 16:34:48,873 - INFO - Index innovations: 6 articles
+2025-08-27 16:34:48,908 - WARNING -  * Debugger is active!
+2025-08-27 16:34:48,917 - INFO -  * Debugger PIN: 166-373-291
+2025-08-27 16:34:56,548 - INFO - Base professionnelle chargée: 199 articles
+2025-08-27 16:34:56,548 - INFO - Construction index sémantique professionnel...
+2025-08-27 16:34:56,564 - INFO - Index sémantique créé: 2044 termes
+2025-08-27 16:34:56,564 - INFO - Index innovations: 6 articles
+2025-08-27 16:34:56,591 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.143:5000
+2025-08-27 16:34:56,591 - INFO - [33mPress CTRL+C to quit[0m
+2025-08-27 16:34:56,602 - INFO -  * Restarting with watchdog (windowsapi)
+2025-08-27 16:34:56,996 - INFO - Base professionnelle chargée: 199 articles
+2025-08-27 16:34:56,996 - INFO - Construction index sémantique professionnel...
+2025-08-27 16:34:57,012 - INFO - Index sémantique créé: 2044 termes
+2025-08-27 16:34:57,013 - INFO - Index innovations: 6 articles
+2025-08-27 16:34:57,031 - WARNING -  * Debugger is active!
+2025-08-27 16:34:57,036 - INFO -  * Debugger PIN: 166-373-291
+2025-08-27 16:35:02,268 - INFO - 127.0.0.1 - - [27/Aug/2025 16:35:02] "GET / HTTP/1.1" 200 -
+2025-08-27 16:35:02,311 - INFO - 127.0.0.1 - - [27/Aug/2025 16:35:02] "[33mGET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1[0m" 404 -
+2025-08-27 16:35:11,067 - INFO - Intent détecté: greeting (confiance: 0.90)
+2025-08-27 16:35:12,549 - INFO - 127.0.0.1 - - [27/Aug/2025 16:35:12] "POST /ask HTTP/1.1" 200 -
+2025-08-27 16:35:43,052 - INFO - Intent détecté: question (confiance: 0.80)
+2025-08-27 16:35:44,828 - INFO - 127.0.0.1 - - [27/Aug/2025 16:35:44] "POST /ask HTTP/1.1" 200 -
+2025-08-27 16:35:46,750 - INFO - Réponse depuis cache intelligent
+2025-08-27 16:35:46,751 - INFO - 127.0.0.1 - - [27/Aug/2025 16:35:46] "POST /ask HTTP/1.1" 200 -
+2025-08-27 16:36:23,917 - INFO - Intent détecté: unknown (confiance: 0.00)
+2025-08-27 16:36:25,357 - INFO - 127.0.0.1 - - [27/Aug/2025 16:36:25] "POST /ask HTTP/1.1" 200 -
+2025-08-27 16:37:42,617 - INFO - Intent détecté: specific_article (confiance: 0.95)
+2025-08-27 16:37:44,275 - INFO - 127.0.0.1 - - [27/Aug/2025 16:37:44] "POST /ask HTTP/1.1" 200 -
+2025-08-27 16:38:22,804 - INFO - Intent détecté: question (confiance: 0.80)
+2025-08-27 16:38:24,553 - INFO - 127.0.0.1 - - [27/Aug/2025 16:38:24] "POST /ask HTTP/1.1" 200 -
+2025-08-27 16:41:21,509 - INFO -  * Detected change in 'C:\\Users\\Imam Said\\Desktop\\Guinée_chatbot\\constitution-ai-ministere\\app.py', reloading
+2025-08-27 16:41:21,509 - INFO -  * Detected change in 'C:\\Users\\Imam Said\\Desktop\\Guinée_chatbot\\constitution-ai-ministere\\app.py', reloading
+2025-08-27 16:41:21,510 - INFO -  * Detected change in 'C:\\Users\\Imam Said\\Desktop\\Guinée_chatbot\\constitution-ai-ministere\\app.py', reloading
+2025-08-27 16:41:21,936 - INFO -  * Restarting with watchdog (windowsapi)
+2025-08-27 16:41:22,424 - INFO - Base professionnelle chargée: 199 articles
+2025-08-27 16:41:22,425 - INFO - Construction index sémantique professionnel...
+2025-08-27 16:41:22,441 - INFO - Index sémantique créé: 2044 termes
+2025-08-27 16:41:22,441 - INFO - Index innovations: 6 articles
+2025-08-27 16:41:22,461 - WARNING -  * Debugger is active!
+2025-08-27 16:41:22,467 - INFO -  * Debugger PIN: 166-373-291
+2025-08-27 16:41:25,092 - INFO -  * Detected change in 'C:\\Users\\Imam Said\\Desktop\\Guinée_chatbot\\constitution-ai-ministere\\app.py', reloading
+2025-08-27 16:41:25,094 - INFO -  * Detected change in 'C:\\Users\\Imam Said\\Desktop\\Guinée_chatbot\\constitution-ai-ministere\\app.py', reloading
+2025-08-27 16:41:25,095 - INFO -  * Detected change in 'C:\\Users\\Imam Said\\Desktop\\Guinée_chatbot\\constitution-ai-ministere\\app.py', reloading
+2025-08-27 16:41:25,614 - INFO -  * Restarting with watchdog (windowsapi)
+2025-08-27 16:41:26,210 - INFO - Base professionnelle chargée: 199 articles
+2025-08-27 16:41:26,210 - INFO - Construction index sémantique professionnel...
+2025-08-27 16:41:26,229 - INFO - Index sémantique créé: 2044 termes
+2025-08-27 16:41:26,229 - INFO - Index innovations: 6 articles
+2025-08-27 16:41:26,254 - WARNING -  * Debugger is active!
+2025-08-27 16:41:26,264 - INFO -  * Debugger PIN: 166-373-291
+2025-08-27 16:41:29,477 - INFO - 127.0.0.1 - - [27/Aug/2025 16:41:29] "GET / HTTP/1.1" 200 -
+2025-08-27 16:41:29,520 - INFO - 127.0.0.1 - - [27/Aug/2025 16:41:29] "[33mGET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1[0m" 404 -
+2025-08-27 16:41:43,052 - INFO - Intent détecté: greeting (confiance: 0.90)
+2025-08-27 16:41:45,191 - INFO - 127.0.0.1 - - [27/Aug/2025 16:41:45] "POST /ask HTTP/1.1" 200 -
+2025-08-27 16:42:23,509 - INFO - Intent détecté: specific_article (confiance: 0.95)
+2025-08-27 16:42:24,919 - INFO - 127.0.0.1 - - [27/Aug/2025 16:42:24] "POST /ask HTTP/1.1" 200 -
+2025-08-27 16:42:58,288 - INFO - Intent détecté: unknown (confiance: 0.00)
+2025-08-27 16:43:00,131 - INFO - 127.0.0.1 - - [27/Aug/2025 16:43:00] "POST /ask HTTP/1.1" 200 -
+2025-08-27 16:43:24,599 - INFO - Intent détecté: unknown (confiance: 0.00)
+2025-08-27 16:43:25,979 - INFO - 127.0.0.1 - - [27/Aug/2025 16:43:25] "POST /ask HTTP/1.1" 200 -
+2025-08-27 16:44:17,359 - INFO - Intent détecté: unknown (confiance: 0.00)
+2025-08-27 16:44:19,089 - INFO - 127.0.0.1 - - [27/Aug/2025 16:44:19] "POST /ask HTTP/1.1" 200 -
+2025-08-27 16:57:51,323 - INFO -  * Detected change in 'C:\\Users\\Imam Said\\Desktop\\Guinée_chatbot\\constitution-ai-ministere\\app.py', reloading
+2025-08-27 16:57:51,327 - INFO -  * Detected change in 'C:\\Users\\Imam Said\\Desktop\\Guinée_chatbot\\constitution-ai-ministere\\app.py', reloading
+2025-08-27 16:57:51,327 - INFO -  * Detected change in 'C:\\Users\\Imam Said\\Desktop\\Guinée_chatbot\\constitution-ai-ministere\\app.py', reloading
+2025-08-27 16:57:51,996 - INFO -  * Restarting with watchdog (windowsapi)
+2025-08-27 16:57:52,523 - INFO - Base professionnelle chargée: 199 articles
+2025-08-27 16:57:52,524 - INFO - Construction index sémantique professionnel...
+2025-08-27 16:57:52,541 - INFO - Index sémantique créé: 2044 termes
+2025-08-27 16:57:52,542 - INFO - Index innovations: 6 articles
+2025-08-27 16:57:52,564 - WARNING -  * Debugger is active!
+2025-08-27 16:57:52,569 - INFO -  * Debugger PIN: 166-373-291
+2025-08-27 16:58:09,957 - INFO - 127.0.0.1 - - [27/Aug/2025 16:58:09] "GET / HTTP/1.1" 200 -
+2025-08-27 16:58:26,719 - INFO - Intent détecté: greeting (confiance: 0.90)
+2025-08-27 16:58:28,109 - INFO - 127.0.0.1 - - [27/Aug/2025 16:58:28] "POST /ask HTTP/1.1" 200 -
+2025-08-27 16:59:15,521 - INFO - Intent détecté: question (confiance: 0.80)
+2025-08-27 16:59:17,211 - INFO - 127.0.0.1 - - [27/Aug/2025 16:59:17] "POST /ask HTTP/1.1" 200 -
+2025-08-27 17:00:39,760 - INFO - Intent détecté: specific_article (confiance: 0.95)
+2025-08-27 17:00:41,092 - INFO - 127.0.0.1 - - [27/Aug/2025 17:00:41] "POST /ask HTTP/1.1" 200 -
+2025-08-27 17:10:59,373 - INFO - Intent détecté: question (confiance: 0.80)
+2025-08-27 17:11:01,686 - INFO - 127.0.0.1 - - [27/Aug/2025 17:11:01] "POST /ask HTTP/1.1" 200 -
+2025-08-27 17:20:31,057 - INFO -  * Detected change in 'C:\\Users\\Imam Said\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\dash\\__init__.py', reloading
+2025-08-27 17:20:31,058 - INFO -  * Detected change in 'C:\\Users\\Imam Said\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\dash\\html\\__init__.py', reloading
+2025-08-27 17:20:31,058 - INFO -  * Detected change in 'C:\\Users\\Imam Said\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\plotly\\graph_objects\\__init__.py', reloading
+2025-08-27 17:20:31,063 - INFO -  * Detected change in 'C:\\Users\\Imam Said\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\dash\\html\\_imports_.py', reloading
+2025-08-27 17:20:31,631 - INFO -  * Detected change in 'C:\\Users\\Imam Said\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\dash\\dcc\\__init__.py', reloading
+2025-08-27 17:20:31,631 - INFO -  * Detected change in 'C:\\Users\\Imam Said\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\dash_bootstrap_components\\__init__.py', reloading
+2025-08-27 17:20:31,632 - INFO -  * Detected change in 'C:\\Users\\Imam Said\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\plotly\\express\\__init__.py', reloading
+2025-08-27 17:20:31,633 - INFO -  * Detected change in 'C:\\Users\\Imam Said\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\plotly\\subplots.py', reloading
+2025-08-27 17:20:31,643 - INFO -  * Detected change in 'C:\\Users\\Imam Said\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\datetime.py', reloading
+2025-08-27 17:20:31,645 - INFO -  * Detected change in 'C:\\Users\\Imam Said\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\numpy\\_typing\\__init__.py', reloading
+2025-08-27 17:20:31,646 - INFO -  * Detected change in 'C:\\Users\\Imam Said\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\dash\\dependencies.py', reloading
+2025-08-27 17:20:31,646 - INFO -  * Detected change in 'C:\\Users\\Imam Said\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\dash\\resources.py', reloading
+2025-08-27 17:20:31,647 - INFO -  * Detected change in 'C:\\Users\\Imam Said\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\dash\\_callback.py', reloading
+2025-08-27 17:20:31,647 - INFO -  * Detected change in 'C:\\Users\\Imam Said\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\dash\\dash.py', reloading
+2025-08-27 17:20:31,647 - INFO -  * Detected change in 'C:\\Users\\Imam Said\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\dash\\_jupyter.py', reloading
+2025-08-27 17:20:31,651 - INFO -  * Detected change in 'C:\\Users\\Imam Said\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\flask\\__init__.py', reloading
+2025-08-27 17:20:31,652 - INFO -  * Detected change in 'C:\\Users\\Imam Said\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\dash\\development\\base_component.py', reloading
+2025-08-27 17:20:31,652 - INFO -  * Detected change in 'C:\\Users\\Imam Said\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\dash\\_configs.py', reloading
+2025-08-27 17:20:31,653 - INFO -  * Detected change in 'C:\\Users\\Imam Said\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\dash\\_utils.py', reloading
+2025-08-27 17:20:31,653 - INFO -  * Detected change in 'C:\\Users\\Imam Said\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\dash\\_validate.py', reloading
+2025-08-27 17:20:31,654 - INFO -  * Detected change in 'C:\\Users\\Imam Said\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\dash\\_obsolete.py', reloading
+2025-08-27 17:20:31,654 - INFO -  * Detected change in 'C:\\Users\\Imam Said\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\dash\\types.py', reloading
+2025-08-27 17:20:31,655 - INFO -  * Detected change in 'C:\\Users\\Imam Said\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\dash\\background_callback\\managers\\__init__.py', reloading
+2025-08-27 17:20:31,656 - INFO -  * Detected change in 'C:\\Users\\Imam Said\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\dash\\html\\Div.py', reloading
+2025-08-27 17:20:31,656 - INFO -  * Detected change in 'C:\\Users\\Imam Said\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\dash\\html\\H1.py', reloading
+2025-08-27 17:20:31,656 - INFO -  * Detected change in 'C:\\Users\\Imam Said\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\dash\\html\\H2.py', reloading
+2025-08-27 17:20:31,657 - INFO -  * Detected change in 'C:\\Users\\Imam Said\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\dash\\html\\H5.py', reloading
+2025-08-27 17:20:31,657 - INFO -  * Detected change in 'C:\\Users\\Imam Said\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\dash\\html\\I.py', reloading
+2025-08-27 17:20:31,658 - INFO -  * Detected change in 'C:\\Users\\Imam Said\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\dash\\html\\Label.py', reloading
+2025-08-27 17:20:31,658 - INFO -  * Detected change in 'C:\\Users\\Imam Said\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\dash\\html\\P.py', reloading
+2025-08-27 17:20:31,659 - INFO -  * Detected change in 'C:\\Users\\Imam Said\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\dash\\html\\Small.py', reloading
+2025-08-27 17:20:31,659 - INFO -  * Detected change in 'C:\\Users\\Imam Said\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\dash\\html\\Span.py', reloading
+2025-08-27 17:20:31,660 - INFO -  * Detected change in 'C:\\Users\\Imam Said\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\dash\\dcc\\_imports_.py', reloading
+2025-08-27 17:20:31,661 - INFO -  * Detected change in 'C:\\Users\\Imam Said\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\dash\\dcc\\DatePickerRange.py', reloading
+2025-08-27 17:20:31,662 - INFO -  * Detected change in 'C:\\Users\\Imam Said\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\dash\\dcc\\Dropdown.py', reloading
+2025-08-27 17:20:31,662 - INFO -  * Detected change in 'C:\\Users\\Imam Said\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\dash\\dcc\\Graph.py', reloading
+2025-08-27 17:20:31,663 - INFO -  * Detected change in 'C:\\Users\\Imam Said\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\dash\\dcc\\Input.py', reloading
+2025-08-27 17:20:31,663 - INFO -  * Detected change in 'C:\\Users\\Imam Said\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\dash\\dcc\\Interval.py', reloading
+2025-08-27 17:20:31,664 - INFO -  * Detected change in 'C:\\Users\\Imam Said\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\dash\\dcc\\Location.py', reloading
+2025-08-27 17:20:31,665 - INFO -  * Detected change in 'C:\\Users\\Imam Said\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\dash\\dcc\\Store.py', reloading
+2025-08-27 17:20:31,665 - INFO -  * Detected change in 'C:\\Users\\Imam Said\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\dash_bootstrap_components\\themes.py', reloading
+2025-08-27 17:20:31,665 - INFO -  * Detected change in 'C:\\Users\\Imam Said\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\dash_bootstrap_components\\_components\\__init__.py', reloading
+2025-08-27 17:20:31,666 - INFO -  * Detected change in 'C:\\Users\\Imam Said\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\dash_bootstrap_components\\_components\\Card.py', reloading
+2025-08-27 17:20:31,667 - INFO -  * Detected change in 'C:\\Users\\Imam Said\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\dash_bootstrap_components\\_components\\CardBody.py', reloading
+2025-08-27 17:20:31,667 - INFO -  * Detected change in 'C:\\Users\\Imam Said\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\dash_bootstrap_components\\_components\\CardHeader.py', reloading
+2025-08-27 17:20:31,668 - INFO -  * Detected change in 'C:\\Users\\Imam Said\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\dash_bootstrap_components\\_components\\Col.py', reloading
+2025-08-27 17:20:31,668 - INFO -  * Detected change in 'C:\\Users\\Imam Said\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\dash_bootstrap_components\\_components\\Container.py', reloading
+2025-08-27 17:20:31,669 - INFO -  * Detected change in 'C:\\Users\\Imam Said\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\dash_bootstrap_components\\_components\\Row.py', reloading
+2025-08-27 17:20:31,669 - INFO -  * Detected change in 'C:\\Users\\Imam Said\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\plotly\\express\\_imshow.py', reloading
+2025-08-27 17:20:31,670 - INFO -  * Detected change in 'C:\\Users\\Imam Said\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\plotly\\express\\_chart_types.py', reloading
+2025-08-27 17:20:31,670 - INFO -  * Detected change in 'C:\\Users\\Imam Said\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\plotly\\express\\colors\\__init__.py', reloading
+2025-08-27 17:20:31,671 - INFO -  * Detected change in 'C:\\Users\\Imam Said\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\plotly\\graph_objs\\__init__.py', reloading
+2025-08-27 17:20:31,671 - INFO -  * Detected change in 'C:\\Users\\Imam Said\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\plotly\\graph_objs\\_bar.py', reloading
+2025-08-27 17:20:31,672 - INFO -  * Detected change in 'C:\\Users\\Imam Said\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\plotly\\graph_objs\\_figure.py', reloading
+2025-08-27 17:20:31,674 - INFO -  * Detected change in 'C:\\Users\\Imam Said\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\plotly\\graph_objs\\_heatmap.py', reloading
+2025-08-27 17:20:31,675 - INFO -  * Detected change in 'C:\\Users\\Imam Said\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\plotly\\graph_objs\\_histogram.py', reloading
+2025-08-27 17:20:31,675 - INFO -  * Detected change in 'C:\\Users\\Imam Said\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\plotly\\graph_objs\\_pie.py', reloading
+2025-08-27 17:20:31,676 - INFO -  * Detected change in 'C:\\Users\\Imam Said\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\plotly\\graph_objs\\_scatter.py', reloading
+2025-08-27 17:20:31,677 - INFO -  * Detected change in 'C:\\Users\\Imam Said\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\plotly\\graph_objs\\_scattermapbox.py', reloading
+2025-08-27 17:20:31,677 - INFO -  * Detected change in 'C:\\Users\\Imam Said\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\plotly\\basedatatypes.py', reloading
+2025-08-27 17:20:31,678 - INFO -  * Detected change in 'C:\\Users\\Imam Said\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\re.py', reloading
+2025-08-27 17:20:31,694 - INFO -  * Detected change in 'C:\\Users\\Imam Said\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\numpy\\typing\\__init__.py', reloading
+2025-08-27 17:20:31,756 - INFO -  * Restarting with watchdog (windowsapi)
+2025-08-27 17:20:32,413 - INFO - Base professionnelle chargée: 199 articles
+2025-08-27 17:20:32,413 - INFO - Construction index sémantique professionnel...
+2025-08-27 17:20:32,432 - INFO - Index sémantique créé: 2044 termes
+2025-08-27 17:20:32,433 - INFO - Index innovations: 6 articles
+2025-08-27 17:20:32,456 - WARNING -  * Debugger is active!
+2025-08-27 17:20:32,465 - INFO -  * Debugger PIN: 166-373-291
+2025-08-27 21:12:49,242 - INFO -  * Detected change in 'C:\\Users\\Imam Said\\Desktop\\Guinée_chatbot\\constitution-ai-ministere\\app.py', reloading
+2025-08-27 21:12:49,243 - INFO -  * Detected change in 'C:\\Users\\Imam Said\\Desktop\\Guinée_chatbot\\constitution-ai-ministere\\app.py', reloading
+2025-08-27 21:12:49,244 - INFO -  * Detected change in 'C:\\Users\\Imam Said\\Desktop\\Guinée_chatbot\\constitution-ai-ministere\\app.py', reloading
+2025-08-27 21:12:50,350 - INFO -  * Restarting with watchdog (windowsapi)
+2025-08-27 21:12:51,078 - INFO - Base professionnelle chargée: 199 articles
+2025-08-27 21:12:51,078 - INFO - Construction index sémantique professionnel...
+2025-08-27 21:12:51,100 - INFO - Index sémantique créé: 2044 termes
+2025-08-27 21:12:51,100 - INFO - Index innovations: 6 articles
+2025-08-27 21:12:51,132 - WARNING -  * Debugger is active!
+2025-08-27 21:12:51,141 - INFO -  * Debugger PIN: 166-373-291
+2025-08-27 21:12:52,276 - INFO -  * Detected change in 'C:\\Users\\Imam Said\\Desktop\\Guinée_chatbot\\constitution-ai-ministere\\app.py', reloading
+2025-08-27 21:12:52,277 - INFO -  * Detected change in 'C:\\Users\\Imam Said\\Desktop\\Guinée_chatbot\\constitution-ai-ministere\\app.py', reloading
+2025-08-27 21:12:53,259 - INFO -  * Restarting with watchdog (windowsapi)
+2025-08-27 21:12:53,812 - INFO - Base professionnelle chargée: 199 articles
+2025-08-27 21:12:53,813 - INFO - Construction index sémantique professionnel...
+2025-08-27 21:12:53,835 - INFO - Index sémantique créé: 2044 termes
+2025-08-27 21:12:53,836 - INFO - Index innovations: 6 articles
+2025-08-27 21:12:53,860 - WARNING -  * Debugger is active!
+2025-08-27 21:12:53,868 - INFO -  * Debugger PIN: 166-373-291
+2025-08-27 21:13:13,857 - INFO - Base professionnelle chargée: 199 articles
+2025-08-27 21:13:13,857 - INFO - Construction index sémantique professionnel...
+2025-08-27 21:13:13,872 - INFO - Index sémantique créé: 2044 termes
+2025-08-27 21:13:13,872 - INFO - Index innovations: 6 articles
+2025-08-27 21:13:13,909 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.3:5000
+2025-08-27 21:13:13,909 - INFO - [33mPress CTRL+C to quit[0m
+2025-08-27 21:13:13,920 - INFO -  * Restarting with watchdog (windowsapi)
+2025-08-27 21:13:14,333 - INFO - Base professionnelle chargée: 199 articles
+2025-08-27 21:13:14,333 - INFO - Construction index sémantique professionnel...
+2025-08-27 21:13:14,348 - INFO - Index sémantique créé: 2044 termes
+2025-08-27 21:13:14,348 - INFO - Index innovations: 6 articles
+2025-08-27 21:13:14,366 - WARNING -  * Debugger is active!
+2025-08-27 21:13:14,372 - INFO -  * Debugger PIN: 166-373-291
+2025-08-27 21:13:27,059 - INFO - 127.0.0.1 - - [27/Aug/2025 21:13:27] "GET / HTTP/1.1" 200 -
+2025-08-27 21:13:40,628 - INFO - Intent détecté: greeting (confiance: 0.90)
+2025-08-27 21:13:41,791 - INFO - 127.0.0.1 - - [27/Aug/2025 21:13:41] "POST /ask HTTP/1.1" 200 -
+2025-08-27 21:19:56,269 - INFO -  * Detected change in 'C:\\Users\\Imam Said\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\flask\\helpers.py', reloading
+2025-08-27 21:19:57,332 - INFO -  * Restarting with watchdog (windowsapi)
+2025-08-27 21:19:57,900 - INFO - Base professionnelle chargée: 199 articles
+2025-08-27 21:19:57,901 - INFO - Construction index sémantique professionnel...
+2025-08-27 21:19:57,915 - INFO - Index sémantique créé: 2044 termes
+2025-08-27 21:19:57,916 - INFO - Index innovations: 6 articles
+2025-08-27 21:19:57,939 - WARNING -  * Debugger is active!
+2025-08-27 21:19:57,946 - INFO -  * Debugger PIN: 166-373-291
+2025-08-27 21:19:59,460 - INFO -  * Detected change in 'C:\\Users\\Imam Said\\Desktop\\Guinée_chatbot\\constitution-ai-ministere\\app.py', reloading
+2025-08-27 21:19:59,460 - INFO -  * Detected change in 'C:\\Users\\Imam Said\\Desktop\\Guinée_chatbot\\constitution-ai-ministere\\app.py', reloading
+2025-08-27 21:19:59,461 - INFO -  * Detected change in 'C:\\Users\\Imam Said\\Desktop\\Guinée_chatbot\\constitution-ai-ministere\\app.py', reloading
+2025-08-27 21:20:00,065 - INFO -  * Restarting with watchdog (windowsapi)
+2025-08-27 21:20:00,733 - INFO - Base professionnelle chargée: 199 articles
+2025-08-27 21:20:00,733 - INFO - Construction index sémantique professionnel...
+2025-08-27 21:20:00,752 - INFO - Index sémantique créé: 2044 termes
+2025-08-27 21:20:00,752 - INFO - Index innovations: 6 articles
+2025-08-27 21:20:00,781 - WARNING -  * Debugger is active!
+2025-08-27 21:20:00,790 - INFO -  * Debugger PIN: 166-373-291
+2025-08-27 21:20:04,978 - INFO -  * Detected change in 'C:\\Users\\Imam Said\\Desktop\\Guinée_chatbot\\constitution-ai-ministere\\app.py', reloading
+2025-08-27 21:20:04,982 - INFO -  * Detected change in 'C:\\Users\\Imam Said\\Desktop\\Guinée_chatbot\\constitution-ai-ministere\\app.py', reloading
+2025-08-27 21:20:04,983 - INFO -  * Detected change in 'C:\\Users\\Imam Said\\Desktop\\Guinée_chatbot\\constitution-ai-ministere\\app.py', reloading
+2025-08-27 21:20:05,943 - INFO -  * Restarting with watchdog (windowsapi)
+2025-08-27 21:20:06,633 - INFO - Base professionnelle chargée: 199 articles
+2025-08-27 21:20:06,633 - INFO - Construction index sémantique professionnel...
+2025-08-27 21:20:06,650 - INFO - Index sémantique créé: 2044 termes
+2025-08-27 21:20:06,651 - INFO - Index innovations: 6 articles
+2025-08-27 21:20:06,671 - WARNING -  * Debugger is active!
+2025-08-27 21:20:06,677 - INFO -  * Debugger PIN: 166-373-291
+2025-08-27 21:20:12,727 - INFO - Base professionnelle chargée: 199 articles
+2025-08-27 21:20:12,727 - INFO - Construction index sémantique professionnel...
+2025-08-27 21:20:12,744 - INFO - Index sémantique créé: 2044 termes
+2025-08-27 21:20:12,744 - INFO - Index innovations: 6 articles
+2025-08-27 21:20:12,775 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.3:5000
+2025-08-27 21:20:12,776 - INFO - [33mPress CTRL+C to quit[0m
+2025-08-27 21:20:12,788 - INFO -  * Restarting with watchdog (windowsapi)
+2025-08-27 21:20:13,209 - INFO - Base professionnelle chargée: 199 articles
+2025-08-27 21:20:13,209 - INFO - Construction index sémantique professionnel...
+2025-08-27 21:20:13,228 - INFO - Index sémantique créé: 2044 termes
+2025-08-27 21:20:13,228 - INFO - Index innovations: 6 articles
+2025-08-27 21:20:13,270 - WARNING -  * Debugger is active!
+2025-08-27 21:20:13,285 - INFO -  * Debugger PIN: 166-373-291
+2025-08-27 21:20:18,082 - INFO - 127.0.0.1 - - [27/Aug/2025 21:20:18] "[32mGET / HTTP/1.1[0m" 302 -
+2025-08-27 21:20:18,088 - INFO - 127.0.0.1 - - [27/Aug/2025 21:20:18] "GET /login HTTP/1.1" 200 -
+2025-08-27 21:20:43,189 - INFO - 127.0.0.1 - - [27/Aug/2025 21:20:43] "[31m[1mPOST /login HTTP/1.1[0m" 401 -
+2025-08-27 21:20:57,114 - INFO - 127.0.0.1 - - [27/Aug/2025 21:20:57] "[31m[1mPOST /login HTTP/1.1[0m" 401 -
+2025-08-27 21:21:42,259 - INFO - 127.0.0.1 - - [27/Aug/2025 21:21:42] "[31m[1mPOST /login HTTP/1.1[0m" 401 -
+2025-08-27 21:21:52,375 - INFO - 127.0.0.1 - - [27/Aug/2025 21:21:52] "[33mGET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1[0m" 404 -
+2025-08-27 21:22:28,789 - INFO - 127.0.0.1 - - [27/Aug/2025 21:22:28] "[33mGET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1[0m" 404 -
+2025-08-27 21:25:57,449 - INFO -  * Detected change in 'C:\\Users\\Imam Said\\Desktop\\Guinée_chatbot\\constitution-ai-ministere\\app.py', reloading
+2025-08-27 21:25:57,450 - INFO -  * Detected change in 'C:\\Users\\Imam Said\\Desktop\\Guinée_chatbot\\constitution-ai-ministere\\app.py', reloading
+2025-08-27 21:25:57,451 - INFO -  * Detected change in 'C:\\Users\\Imam Said\\Desktop\\Guinée_chatbot\\constitution-ai-ministere\\app.py', reloading
+2025-08-27 21:25:58,010 - INFO -  * Restarting with watchdog (windowsapi)
+2025-08-27 21:25:58,971 - INFO - Base professionnelle chargée: 199 articles
+2025-08-27 21:25:58,972 - INFO - Construction index sémantique professionnel...
+2025-08-27 21:25:59,001 - INFO - Index sémantique créé: 2044 termes
+2025-08-27 21:25:59,002 - INFO - Index innovations: 6 articles
+2025-08-27 21:25:59,045 - WARNING -  * Debugger is active!
+2025-08-27 21:25:59,056 - INFO -  * Debugger PIN: 166-373-291
+2025-08-27 21:26:16,181 - INFO - Base professionnelle chargée: 199 articles
+2025-08-27 21:26:16,181 - INFO - Construction index sémantique professionnel...
+2025-08-27 21:26:16,198 - INFO - Index sémantique créé: 2044 termes
+2025-08-27 21:26:16,198 - INFO - Index innovations: 6 articles
+2025-08-27 21:26:16,229 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.3:5000
+2025-08-27 21:26:16,229 - INFO - [33mPress CTRL+C to quit[0m
+2025-08-27 21:26:16,241 - INFO -  * Restarting with watchdog (windowsapi)
+2025-08-27 21:26:16,662 - INFO - Base professionnelle chargée: 199 articles
+2025-08-27 21:26:16,662 - INFO - Construction index sémantique professionnel...
+2025-08-27 21:26:16,680 - INFO - Index sémantique créé: 2044 termes
+2025-08-27 21:26:16,681 - INFO - Index innovations: 6 articles
+2025-08-27 21:26:16,703 - WARNING -  * Debugger is active!
+2025-08-27 21:26:16,708 - INFO -  * Debugger PIN: 166-373-291
+2025-08-27 21:26:26,792 - INFO - 127.0.0.1 - - [27/Aug/2025 21:26:26] "GET /login HTTP/1.1" 200 -
+2025-08-27 21:26:26,838 - INFO - 127.0.0.1 - - [27/Aug/2025 21:26:26] "[33mGET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1[0m" 404 -
+2025-08-27 21:26:48,114 - INFO - 127.0.0.1 - - [27/Aug/2025 21:26:48] "[31m[1mPOST /login HTTP/1.1[0m" 401 -
+2025-08-27 21:27:07,550 - INFO - 127.0.0.1 - - [27/Aug/2025 21:27:07] "[31m[1mPOST /login HTTP/1.1[0m" 401 -
+2025-08-27 21:34:51,510 - INFO - Base professionnelle chargée: 199 articles
+2025-08-27 21:34:51,510 - INFO - Construction index sémantique professionnel...
+2025-08-27 21:34:51,526 - INFO - Index sémantique créé: 2044 termes
+2025-08-27 21:34:51,526 - INFO - Index innovations: 6 articles
+2025-08-27 21:34:51,553 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.3:5000
+2025-08-27 21:34:51,553 - INFO - [33mPress CTRL+C to quit[0m
+2025-08-27 21:34:51,567 - INFO -  * Restarting with watchdog (windowsapi)
+2025-08-27 21:34:51,967 - INFO - Base professionnelle chargée: 199 articles
+2025-08-27 21:34:51,968 - INFO - Construction index sémantique professionnel...
+2025-08-27 21:34:51,984 - INFO - Index sémantique créé: 2044 termes
+2025-08-27 21:34:51,984 - INFO - Index innovations: 6 articles
+2025-08-27 21:34:52,005 - WARNING -  * Debugger is active!
+2025-08-27 21:34:52,012 - INFO -  * Debugger PIN: 166-373-291
+2025-08-27 21:34:59,745 - INFO - 127.0.0.1 - - [27/Aug/2025 21:34:59] "GET /login HTTP/1.1" 200 -
+2025-08-27 21:34:59,789 - INFO - 127.0.0.1 - - [27/Aug/2025 21:34:59] "[33mGET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1[0m" 404 -
+2025-08-27 21:35:20,321 - INFO - 127.0.0.1 - - [27/Aug/2025 21:35:20] "GET /login HTTP/1.1" 200 -
+2025-08-27 21:35:22,017 - INFO - 127.0.0.1 - - [27/Aug/2025 21:35:22] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-08-27 21:35:37,441 - INFO - 127.0.0.1 - - [27/Aug/2025 21:35:37] "[31m[1mPOST /login HTTP/1.1[0m" 401 -
+2025-08-27 21:35:45,084 - INFO - 127.0.0.1 - - [27/Aug/2025 21:35:45] "[33mGET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1[0m" 404 -
+2025-08-27 21:37:57,036 - INFO -  * Detected change in 'C:\\Users\\Imam Said\\Desktop\\Guinée_chatbot\\constitution-ai-ministere\\app.py', reloading
+2025-08-27 21:37:57,038 - INFO -  * Detected change in 'C:\\Users\\Imam Said\\Desktop\\Guinée_chatbot\\constitution-ai-ministere\\app.py', reloading
+2025-08-27 21:37:57,039 - INFO -  * Detected change in 'C:\\Users\\Imam Said\\Desktop\\Guinée_chatbot\\constitution-ai-ministere\\app.py', reloading
+2025-08-27 21:37:57,689 - INFO -  * Restarting with watchdog (windowsapi)
+2025-08-27 21:37:58,554 - INFO - Base professionnelle chargée: 199 articles
+2025-08-27 21:37:58,555 - INFO - Construction index sémantique professionnel...
+2025-08-27 21:37:58,578 - INFO - Index sémantique créé: 2044 termes
+2025-08-27 21:37:58,579 - INFO - Index innovations: 6 articles
+2025-08-27 21:37:58,604 - WARNING -  * Debugger is active!
+2025-08-27 21:37:58,611 - INFO -  * Debugger PIN: 166-373-291
+2025-08-27 21:38:03,345 - INFO - 127.0.0.1 - - [27/Aug/2025 21:38:03] "[33mGET /login HTTP/1.1[0m" 404 -
+2025-08-27 21:38:03,373 - INFO - 127.0.0.1 - - [27/Aug/2025 21:38:03] "[33mGET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1[0m" 404 -
+2025-08-27 21:38:11,813 - INFO - 127.0.0.1 - - [27/Aug/2025 21:38:11] "GET / HTTP/1.1" 200 -
+2025-08-27 21:38:12,125 - INFO - 127.0.0.1 - - [27/Aug/2025 21:38:12] "[33mGET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1[0m" 404 -
+2025-08-27 21:39:21,873 - INFO - Intent détecté: question (confiance: 0.80)
+2025-08-27 21:39:23,260 - INFO - 127.0.0.1 - - [27/Aug/2025 21:39:23] "POST /ask HTTP/1.1" 200 -
+2025-08-27 21:51:38,608 - INFO -  * Detected change in 'C:\\Users\\Imam Said\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\dash\\__init__.py', reloading
+2025-08-27 21:51:38,609 - INFO -  * Detected change in 'C:\\Users\\Imam Said\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\dash\\html\\__init__.py', reloading
+2025-08-27 21:51:38,609 - INFO -  * Detected change in 'C:\\Users\\Imam Said\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\plotly\\graph_objects\\__init__.py', reloading
+2025-08-27 21:51:38,618 - INFO -  * Detected change in 'C:\\Users\\Imam Said\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\dash\\html\\_imports_.py', reloading
+2025-08-27 21:51:38,982 - INFO -  * Restarting with watchdog (windowsapi)
+2025-08-27 21:51:39,717 - INFO - Base professionnelle chargée: 199 articles
+2025-08-27 21:51:39,717 - INFO - Construction index sémantique professionnel...
+2025-08-27 21:51:39,733 - INFO - Index sémantique créé: 2044 termes
+2025-08-27 21:51:39,733 - INFO - Index innovations: 6 articles
+2025-08-27 21:51:39,761 - WARNING -  * Debugger is active!
+2025-08-27 21:51:39,769 - INFO -  * Debugger PIN: 166-373-291
+2025-08-28 00:21:08,614 - INFO - Base professionnelle chargée: 199 articles
+2025-08-28 00:21:08,615 - INFO - Construction index sémantique professionnel...
+2025-08-28 00:21:08,635 - INFO - Index sémantique créé: 2044 termes
+2025-08-28 00:21:08,635 - INFO - Index innovations: 6 articles
+2025-08-28 00:21:08,691 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.3:5000
+2025-08-28 00:21:08,691 - INFO - [33mPress CTRL+C to quit[0m
+2025-08-28 00:21:08,695 - INFO -  * Restarting with stat
+2025-08-28 00:21:09,199 - INFO - Base professionnelle chargée: 199 articles
+2025-08-28 00:21:09,200 - INFO - Construction index sémantique professionnel...
+2025-08-28 00:21:09,216 - INFO - Index sémantique créé: 2044 termes
+2025-08-28 00:21:09,216 - INFO - Index innovations: 6 articles
+2025-08-28 00:21:09,234 - WARNING -  * Debugger is active!
+2025-08-28 00:21:09,240 - INFO -  * Debugger PIN: 720-753-119
+2025-08-28 00:21:20,308 - INFO - 127.0.0.1 - - [28/Aug/2025 00:21:20] "GET / HTTP/1.1" 200 -
+2025-08-28 00:24:49,883 - INFO - 192.168.1.4 - - [28/Aug/2025 00:24:49] "GET / HTTP/1.1" 200 -
+2025-08-28 00:25:13,212 - INFO - 127.0.0.1 - - [28/Aug/2025 00:25:13] "GET / HTTP/1.1" 200 -
+2025-08-28 00:25:22,276 - INFO - 127.0.0.1 - - [28/Aug/2025 00:25:22] "GET / HTTP/1.1" 200 -
+2025-08-28 08:18:24,911 - INFO - Intent détecté: greeting (confiance: 0.90)
+2025-08-28 08:18:26,362 - INFO - 127.0.0.1 - - [28/Aug/2025 08:18:26] "POST /ask HTTP/1.1" 200 -
+2025-08-28 08:19:04,524 - INFO - Intent détecté: specific_article (confiance: 0.95)
+2025-08-28 08:19:05,885 - INFO - 127.0.0.1 - - [28/Aug/2025 08:19:05] "POST /ask HTTP/1.1" 200 -
+2025-08-28 08:20:12,430 - INFO - Intent détecté: unknown (confiance: 0.00)
+2025-08-28 08:20:16,388 - INFO - 127.0.0.1 - - [28/Aug/2025 08:20:16] "POST /ask HTTP/1.1" 200 -
+2025-08-28 08:27:47,397 - INFO - Intent détecté: question (confiance: 0.80)
+2025-08-28 08:27:48,773 - INFO - 127.0.0.1 - - [28/Aug/2025 08:27:48] "POST /ask HTTP/1.1" 200 -
+2025-08-28 08:28:49,474 - INFO - Intent détecté: specific_article (confiance: 0.95)
+2025-08-28 08:28:51,305 - INFO - 127.0.0.1 - - [28/Aug/2025 08:28:51] "POST /ask HTTP/1.1" 200 -
