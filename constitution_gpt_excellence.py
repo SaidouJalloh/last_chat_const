@@ -3537,7 +3537,7 @@ Pouvez-vous préciser votre question sur cet article :
     def optimize_cache_memory(self):
         """Optimisation mémoire du cache"""
         
-        if len(self.response_cache) > 1000:  # Limite cache
+        if len(self.response_cache) > 2000:  # Limite cache
             # Supprimer les entrées les plus anciennes
             now = datetime.now()
             old_keys = []
