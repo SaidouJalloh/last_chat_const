@@ -63,7 +63,8 @@ class ConstitutionGPTWorldClassExcellence:
         # Configuration Groq optimisée
         self.groq_api_key = groq_api_key
         self.groq_url = "https://api.groq.com/openai/v1/chat/completions"
-        self.groq_model = "llama3-70b-8192"
+        #self.groq_model = "llama3-70b-8192"
+        self.groq_model = llama-3.3-70b-versatile
         
         # CORRECTION DES ERREURS CRITIQUES IDENTIFIÉES
         self.build_corrected_mappings()
