@@ -1771,51 +1771,53 @@ def home():
             }
         }
 
-        async function ask() {
-            const question = textarea.value.trim();
-            if (!question) return;
-            
-            addMessage(question, true);
-            
-            textarea.value = '';
-            textarea.style.height = 'auto';
-            sendButton.disabled = true;
-            
-            addTypingIndicator();
-            
-            try {
-                const response = await fetch('/ask', {
-                    method: 'POST',
-                    headers: {'Content-Type': 'application/json'},
-                    body: JSON.stringify({question: question})
-                });
-                
-                if (!response.ok) {
-                    throw new Error(`Erreur ${response.status}: ${response.statusText}`);
-                }
-                
-                const data = await response.json();
-                
-                removeTypingIndicator();
-                
-                const formattedAnswer = data.answer
-                    .replace(/\\n/g, '<br>')
-                    .re.sub(r'\*\*(.*?)\*\*', r'<strong>\1</strong>', text))
-                    .replace(/\*(.*?)\*/g, '<em>$1</em>');
-                
-                addMessage(formattedAnswer, false);
-                
-            } catch (error) {
-                removeTypingIndicator();
-                addMessage(`❌ <strong>Erreur de service</strong><br>Une difficulté technique est survenue. Veuillez réessayer dans quelques instants.<br><em>Détail : ${error.message}</em>`, false);
-            } finally {
-                sendButton.disabled = false;
-                
-                if (window.innerWidth > 768) {
-                    setTimeout(() => textarea.focus(), 200);
-                }
-            }
+      async function ask() {
+    const question = textarea.value.trim();
+    if (!question) return;
+    
+    addMessage(question, true);
+    
+    textarea.value = '';
+    textarea.style.height = 'auto';
+    sendButton.disabled = true;
+    
+    addTypingIndicator();
+    
+    try {
+        const response = await fetch('/ask', {
+            method: 'POST',
+            headers: {'Content-Type': 'application/json'},
+            body: JSON.stringify({question: question})
+        });
+        
+        if (!response.ok) {
+            throw new Error(`Erreur ${response.status}: ${response.statusText}`);
         }
+        
+        const data = await response.json();
+        
+        removeTypingIndicator();
+        
+        // CORRECTION ICI - Formatage JavaScript correct
+        const formattedAnswer = data.answer
+            .replace(/\n/g, '<br>')
+            .replace(/\*\*(.*?)\*\*/g, '<strong>$1</strong>')
+            .replace(/\*(.*?)\*/g, '<em>$1</em>');
+        
+        addMessage(formattedAnswer, false);
+        
+    } catch (error) {
+        removeTypingIndicator();
+        addMessage(`❌ <strong>Erreur de service</strong><br>Une difficulté technique est survenue. Veuillez réessayer dans quelques instants.<br><em>Détail : ${error.message}</em>`, false);
+    } finally {
+        sendButton.disabled = false;
+        
+        if (window.innerWidth > 768) {
+            setTimeout(() => textarea.focus(), 200);
+        }
+    }
+}
+
 
         setTimeout(() => {
             textarea.focus();
