@@ -66,7 +66,7 @@
 #         self.groq_url = "https://api.groq.com/openai/v1/chat/completions"
           #self.groq_model = "llama3-70b-8192"
           #self.groq_model = "llama-3.3-70b-versatile"
-          self.groq_model ="llama-3.1-8b-instant"
+          # self.groq_model ="llama-3.1-8b-instant"
         
 #         # CORRECTION DES ERREURS CRITIQUES IDENTIFIÉES
 #         self.build_corrected_mappings()
