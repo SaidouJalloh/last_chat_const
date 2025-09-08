@@ -1771,7 +1771,7 @@ def home():
             }
         }
 
-      async function ask() {
+async function ask() {
     const question = textarea.value.trim();
     if (!question) return;
     
