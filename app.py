@@ -1000,6 +1000,7 @@
 # Voici le new code responssive qui marche meme sur mobile
 
 # code qui marche bien
+import re
 import os
 from flask import Flask, request, jsonify
 from constitution_gpt_excellence import ConstitutionGPTWorldClassExcellence
@@ -1799,7 +1800,7 @@ def home():
                 
                 const formattedAnswer = data.answer
                     .replace(/\\n/g, '<br>')
-                    .replace(/\*\*(.*?)\*\*/g, '<strong>$1</strong>')
+                    .re.sub(r'\*\*(.*?)\*\*', r'<strong>\1</strong>', text))
                     .replace(/\*(.*?)\*/g, '<em>$1</em>');
                 
                 addMessage(formattedAnswer, false);
